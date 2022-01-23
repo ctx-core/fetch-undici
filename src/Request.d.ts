@@ -1,1 +1,2 @@
-export { Request } from 'undici'
+/// <reference lib="dom" />
+export declare const Request:Request

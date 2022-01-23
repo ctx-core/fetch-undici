@@ -1,1 +1,2 @@
-export { Headers } from 'undici'
+/// <reference lib="dom" />
+export declare const Headers:Headers

@@ -1,4 +1,3 @@
-export * from './_types'
 export * from './fetch'
 export * from './fetch_method_'
 export * from './Headers'
