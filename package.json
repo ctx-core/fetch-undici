@@ -1,0 +1,61 @@
+{
+	"name": "@ctx-core/fetch-undici",
+	"version": "1.0.0",
+	"description": "ctx-core fetch using undici",
+	"keywords": [
+		"ctx-core",
+		"fetch",
+		"undici"
+	],
+	"homepage": "https://github.com/ctx-core/fetch-undici#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/fetch-undici/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/fetch-undici.git"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"type": "module",
+	"types": "./src/index.d.ts",
+	"svelte": "./src/index.js",
+	"exports": {
+		".": {
+			"browser": "./src/index.browser.js",
+			"node": "./src/index.js"
+		},
+		"./package.json": "./package.json"
+	},
+	"scripts": {
+		"build": ":",
+		"clean": ":",
+		"exec": "$@",
+		"prepublishOnly": "npm run clean && npm run build && npm run test",
+		"test": "pnpm test-unit && check-dts",
+		"test-unit": "tsm node_modules/uvu/bin.js . '\\.test\\.(ts|js)$'",
+		"test-unit-coverage": "c8 pnpm test-unit"
+	},
+	"dependencies": {
+		"@ctx-core/app_version": "workspace:^15.0.19",
+		"@ctx-core/dom": "workspace:^11.1.5",
+		"@ctx-core/error": "workspace:^11.1.23",
+		"@ctx-core/fibonacci": "workspace:^8.0.37",
+		"@ctx-core/object": "workspace:^22.0.13",
+		"@ctx-core/package": "workspace:^9.1.26",
+		"@ctx-core/sleep": "workspace:^8.0.36",
+		"undici": "^4.12.2"
+	},
+	"devDependencies": {
+		"c8": "^7.11.0",
+		"check-dts": "^0.6.6",
+		"tsm": "^2.2.1",
+		"typescript": "next",
+		"uvu": "^0.5.3"
+	},
+	"publishConfig": {
+		"access": "public",
+		"cache": "~/.npm"
+	},
+	"sideEffects": false
+}
