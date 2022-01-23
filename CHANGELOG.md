@@ -1,5 +1,17 @@
 # @ctx-core/fetch-undici
 
+## 1.1.0
+
+### Minor Changes
+
+- - raw_fetch
+
+### Patch Changes
+
+- use fetch instead of safe_fetch
+- Updated dependencies
+  - @ctx-core/fetch@12.0.3
+
 ## 1.0.3
 
 ### Patch Changes
