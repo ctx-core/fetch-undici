@@ -1,2 +1,2 @@
-/// <reference lib="dom" />
-export declare const Headers:Headers
+import type { _Headers } from './_types'
+export declare const Headers:_Headers

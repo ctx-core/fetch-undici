@@ -1,3 +1,3 @@
-/// <reference lib="dom" />
-export declare function fetch(input: RequestInfo, init?: RequestInit): Promise<Response>
-export declare const safe_fetch:typeof fetch
+import type { _fetch } from './_types'
+export declare const fetch:_fetch
+export declare const safe_fetch:_fetch

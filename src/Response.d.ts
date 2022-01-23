@@ -1,2 +1,2 @@
-/// <reference lib="dom" />
-export declare const Response:Response
+import type { _Response } from './_types'
+export type Response = _Response
