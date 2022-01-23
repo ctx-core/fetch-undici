@@ -1,2 +1,2 @@
-/** @type {import('./Request.d.ts').Request} */
+/** @type {import('@ctx-core/fetch').Request} */
 export { Request } from 'undici'

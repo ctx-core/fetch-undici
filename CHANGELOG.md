@@ -1,5 +1,13 @@
 # @ctx-core/fetch-undici
 
+## 1.0.2
+
+### Patch Changes
+
+- Use types & browser modules from @ctx-core/fetch
+- Updated dependencies
+  - @ctx-core/fetch@12.0.0
+
 ## 1.0.1
 
 ### Patch Changes

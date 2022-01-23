@@ -1,2 +1,2 @@
-/** @type {import('./Response.d.ts').Response} */
+/** @type {import('@ctx-core/fetch').Response} */
 export { Response } from 'undici'
