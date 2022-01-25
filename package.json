@@ -39,7 +39,7 @@
 	"dependencies": {
 		"@ctx-core/app_version": "workspace:^15.0.19",
 		"@ctx-core/dom": "workspace:^11.1.5",
-		"@ctx-core/error": "workspace:^11.2.0",
+		"@ctx-core/error": "workspace:^11.3.0",
 		"@ctx-core/fetch": "workspace:^12.0.3",
 		"@ctx-core/fibonacci": "workspace:^8.0.38",
 		"@ctx-core/object": "workspace:^22.0.13",
