@@ -45,7 +45,7 @@
 		"@ctx-core/object": "workspace:^22.0.13",
 		"@ctx-core/package": "workspace:^9.1.26",
 		"@ctx-core/sleep": "workspace:^8.0.36",
-		"undici": "^4.12.2"
+		"undici": "^4.13.0"
 	},
 	"devDependencies": {
 		"c8": "^7.11.0",
