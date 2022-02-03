@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 1.1.4
+
+### Patch Changes
+
+- update dependencies
+
 ## 1.1.3
 
 ### Patch Changes
