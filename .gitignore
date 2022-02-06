@@ -1,3 +1,4 @@
 *.log
 ~/.npm
 COMMIT_EDITMSG
+*.tgz
