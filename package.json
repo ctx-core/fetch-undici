@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch-undici",
-	"version": "1.1.6",
+	"version": "1.1.8",
 	"description": "ctx-core fetch using undici",
 	"keywords": [
 		"ctx-core",
@@ -37,7 +37,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/app_version": "^16.0.5",
+		"@ctx-core/app_version": "^16.0.6",
 		"@ctx-core/dom": "^11.1.6",
 		"@ctx-core/error": "^11.4.0",
 		"@ctx-core/fetch": "^12.0.4",
@@ -45,7 +45,7 @@
 		"@ctx-core/object": "*",
 		"@ctx-core/package": "^9.1.27",
 		"@ctx-core/sleep": "^8.0.36",
-		"undici": "^4.13.0"
+		"undici": "^4.14.1"
 	},
 	"devDependencies": {
 		"c8": "^7.11.0",

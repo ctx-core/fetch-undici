@@ -1,5 +1,18 @@
 # @ctx-core/fetch-undici
 
+## 1.1.8
+
+### Patch Changes
+
+- undici: ^4.13.0 -> ^4.14.1
+
+## 1.1.7
+
+### Patch Changes
+
+- fix: .gitignore: + node_modules
+  - @ctx-core/app_version@16.0.6
+
 ## 1.1.6
 
 ### Patch Changes
