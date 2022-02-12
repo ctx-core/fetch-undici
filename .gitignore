@@ -1,4 +1,5 @@
 *.log
 ~/.npm
 COMMIT_EDITMSG
+node_modules
 *.tgz
