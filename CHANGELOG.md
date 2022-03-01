@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 1.2.6
+
+### Patch Changes
+
+- fix: response*pair*: application/json: text/JSON.parse
+
 ## 1.2.5
 
 ### Patch Changes
