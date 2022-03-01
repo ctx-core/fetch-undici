@@ -1,5 +1,19 @@
 # @ctx-core/fetch-undici
 
+## 1.2.5
+
+### Patch Changes
+
+- from @ctx-core/fetch
+
+  - response*pair*:
+
+    fix: application/json: JSON.parse
+
+    - try/catch around JSON.parse: console.error(text)
+
+  - fix: response*pair*: Content-Type headers is falsy
+
 ## 1.2.4
 
 ### Patch Changes
