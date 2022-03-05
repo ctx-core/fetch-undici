@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 1.2.7
+
+### Patch Changes
+
+- fix: response*pair*: no Content-Type header: text response
+
 ## 1.2.6
 
 ### Patch Changes
