@@ -45,7 +45,7 @@
 		"@ctx-core/object": "*",
 		"@ctx-core/package": "^9.1.27",
 		"@ctx-core/sleep": "^8.0.36",
-		"undici": "^4.15.0"
+		"undici": "^4.15.1"
 	},
 	"devDependencies": {
 		"c8": "^7.11.0",
