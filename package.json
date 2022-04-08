@@ -37,7 +37,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/app_version": "^16.0.12",
+		"@ctx-core/app_version": "^16.0.13",
 		"@ctx-core/dom": "^11.1.9",
 		"@ctx-core/error": "^11.4.1",
 		"@ctx-core/fetch": "^12.2.7",
