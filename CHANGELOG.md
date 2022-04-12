@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 2.1.1
+
+### Patch Changes
+
+- - assign_undici_to_globalThis
+
 ## 2.1.0
 
 ### Minor Changes
