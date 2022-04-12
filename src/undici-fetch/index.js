@@ -6,7 +6,5 @@ Object.assign(globalThis, {
 	Response,
 })
 module.exports = {
-	default: {
-		fetch, Headers, Request, Response
-	}
+	fetch, Headers, Request, Response
 }

@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 2.1.0
+
+### Minor Changes
+
+- feat: + assign_undici_to_globalThis: need to call assign_undici_to_globalThis to set undici fetch props on globalThis
+
 ## 2.0.0
 
 ### Major Changes
