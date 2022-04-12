@@ -1,2 +1,3 @@
+import * as undici from 'undici'
 /** @type {import('@ctx-core/fetch').Request} */
-export { Request } from 'undici'
+export const Request = undici.Request

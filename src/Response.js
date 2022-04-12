@@ -1,2 +1,3 @@
+import * as undici from 'undici'
 /** @type {import('@ctx-core/fetch').Response} */
-export { Response } from 'undici'
+export const Response = undici.Response

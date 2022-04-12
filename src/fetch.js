@@ -1,1 +1,2 @@
-export { fetch } from 'undici'
+import * as undici from 'undici'
+export const fetch = undici.fetch

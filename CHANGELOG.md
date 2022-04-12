@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 1.2.17
+
+### Patch Changes
+
+- fix: rollup integration: import \* as undici from 'undici'
+
 ## 1.2.16
 
 ### Patch Changes

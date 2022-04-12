@@ -1,2 +1,3 @@
+import * as undici from 'undici'
 /** @type {import('./Headers.d.ts').Headers} */
-export { Headers } from 'undici'
+export const Headers = undici.Headers
