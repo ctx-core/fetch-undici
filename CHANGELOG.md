@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 1.2.18
+
+### Patch Changes
+
+- fix: undici: cjs->esm interop
+
 ## 1.2.17
 
 ### Patch Changes
