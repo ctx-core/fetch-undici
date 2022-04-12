@@ -1,5 +1,22 @@
 # @ctx-core/fetch-undici
 
+## 1.2.15
+
+### Patch Changes
+
+- package.json: exports: update
+- fix: package.json: exports: + default
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/app_version@16.0.15
+  - @ctx-core/dom@11.1.10
+  - @ctx-core/error@11.4.2
+  - @ctx-core/fetch@12.2.8
+  - @ctx-core/fibonacci@8.0.39
+  - @ctx-core/object@22.1.4
+  - @ctx-core/package@9.1.29
+  - @ctx-core/sleep@8.0.37
+
 ## 1.2.14
 
 ### Patch Changes
