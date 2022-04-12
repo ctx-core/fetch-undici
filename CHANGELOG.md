@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 2.0.0
+
+### Major Changes
+
+- undici: globalThis: + fetch,Headers,Request,Response
+
 ## 1.2.18
 
 ### Patch Changes

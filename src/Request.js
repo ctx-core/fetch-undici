@@ -1,3 +1,3 @@
-export { default as undici } from './undici-fetch/index.js'
+import './undici-fetch/index.js'
 /** @type {import('@ctx-core/fetch').Request} */
-export const Request = undici.Request
+export const Request = globalThis.Request
