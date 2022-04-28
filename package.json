@@ -41,10 +41,10 @@
 		"@ctx-core/app_version": "^16.0.19",
 		"@ctx-core/dom": "^11.1.15",
 		"@ctx-core/error": "^11.4.6",
-		"@ctx-core/fetch": "^12.2.11",
+		"@ctx-core/fetch": "^12.2.12",
 		"@ctx-core/fibonacci": "^8.0.39",
 		"@ctx-core/object": "^22.1.9",
-		"@ctx-core/package": "^9.1.32",
+		"@ctx-core/package": "^9.1.33",
 		"@ctx-core/sleep": "^8.0.37",
 		"undici": "^5.0.0"
 	},
