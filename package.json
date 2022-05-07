@@ -39,7 +39,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/app_version": "^16.0.21",
-		"@ctx-core/dom": "^11.1.16",
+		"@ctx-core/dom": "^11.1.17",
 		"@ctx-core/error": "^11.4.7",
 		"@ctx-core/fetch": "^12.2.13",
 		"@ctx-core/fibonacci": "^8.0.39",
