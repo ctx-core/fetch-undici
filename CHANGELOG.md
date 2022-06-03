@@ -1,5 +1,14 @@
 # @ctx-core/fetch-undici
 
+## 2.1.16
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/app_version@16.2.1
+  - @ctx-core/package@9.1.40
+
 ## 2.1.15
 
 ### Patch Changes
