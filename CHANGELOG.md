@@ -1,5 +1,31 @@
 # @ctx-core/fetch-undici
 
+## 2.2.1
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies
+  - @ctx-core/queue@7.3.1
+
+## 2.2.0
+
+### Minor Changes
+
+- fetch*response_pair*:
+
+  request queue: defaults to 128
+
+  - set_undici_queue_size
+  - RequestInit: + dispatcher
+
+  ∋ @ctx-core/queue
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/queue@7.3.0
+
 ## 2.1.17
 
 ### Patch Changes
