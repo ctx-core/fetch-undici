@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 2.3.0
+
+### Minor Changes
+
+- extract directories
+
 ## 2.2.5
 
 ### Patch Changes
