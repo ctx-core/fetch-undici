@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch-undici",
-	"version": "2.3.1",
+	"version": "2.3.2",
 	"description": "ctx-core fetch using undici",
 	"keywords": [
 		"ctx-core",
@@ -47,7 +47,7 @@
 		"@ctx-core/package": "^9.1.41",
 		"@ctx-core/queue": "^7.3.1",
 		"@ctx-core/sleep": "^8.0.37",
-		"undici": "^5.8.1"
+		"undici": "^5.8.2"
 	},
 	"devDependencies": {
 		"c8": "^7.12.0",
