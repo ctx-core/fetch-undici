@@ -43,7 +43,7 @@
 		"@ctx-core/error": "^11.5.1",
 		"@ctx-core/fetch": "^12.3.2",
 		"@ctx-core/fibonacci": "^8.0.40",
-		"@ctx-core/object": "^22.2.8",
+		"@ctx-core/object": "^22.3.0",
 		"@ctx-core/package": "^9.1.44",
 		"@ctx-core/queue": "^7.3.2",
 		"@ctx-core/sleep": "^8.0.37",
