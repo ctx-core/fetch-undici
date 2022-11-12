@@ -41,7 +41,7 @@
 		"@ctx-core/app_version": "^16.2.16",
 		"@ctx-core/dom": "^11.1.28",
 		"@ctx-core/error": "^11.5.1",
-		"@ctx-core/fetch": "^12.3.3",
+		"@ctx-core/fetch": "^12.3.4",
 		"@ctx-core/fibonacci": "^8.0.40",
 		"@ctx-core/object": "^22.3.0",
 		"@ctx-core/package": "^9.1.44",
