@@ -44,7 +44,7 @@
 		"@ctx-core/fetch": "^12.3.5",
 		"@ctx-core/fibonacci": "^8.0.40",
 		"@ctx-core/object": "^22.4.1",
-		"@ctx-core/package": "^9.1.44",
+		"@ctx-core/package": "^9.1.45",
 		"@ctx-core/queue": "^7.3.2",
 		"@ctx-core/sleep": "^8.0.37",
 		"undici": "^5.12.0"
