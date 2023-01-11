@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 2.3.44
+
+### Patch Changes
+
+- undici: ^5.14.0 -> ^5.15.0
+
 ## 2.3.43
 
 ### Patch Changes
