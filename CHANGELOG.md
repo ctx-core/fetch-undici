@@ -1,5 +1,20 @@
 # @ctx-core/fetch-undici
 
+## 2.3.57
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/dom@11.2.25
+  - @ctx-core/error@11.5.14
+  - @ctx-core/fetch@12.3.30
+  - @ctx-core/fibonacci@8.0.41
+  - @ctx-core/object@24.1.1
+  - @ctx-core/package@9.1.61
+  - @ctx-core/queue@7.3.3
+  - @ctx-core/sleep@8.0.40
+
 ## 2.3.56
 
 ### Patch Changes
