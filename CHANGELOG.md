@@ -1,5 +1,16 @@
 # @ctx-core/fetch-undici
 
+## 2.3.62
+
+### Patch Changes
+
+- @ctx-core/sleep: ^8.0.40 -> ^8.0.41
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/fetch@12.3.33
+  - @ctx-core/dom@11.2.28
+
 ## 2.3.61
 
 ### Patch Changes
