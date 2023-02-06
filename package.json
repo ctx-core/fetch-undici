@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch-undici",
-	"version": "2.3.69",
+	"version": "2.3.70",
 	"description": "ctx-core fetch using undici",
 	"keywords": [
 		"ctx-core",
@@ -38,12 +38,12 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^11.2.32",
+		"@ctx-core/dom": "^11.2.33",
 		"@ctx-core/error": "^11.5.18",
-		"@ctx-core/fetch": "^12.3.36",
+		"@ctx-core/fetch": "^12.3.37",
 		"@ctx-core/fibonacci": "^8.0.41",
 		"@ctx-core/object": "^24.1.4",
-		"@ctx-core/package": "^9.1.64",
+		"@ctx-core/package": "^9.1.65",
 		"@ctx-core/queue": "^7.3.4",
 		"@ctx-core/sleep": "^8.0.41",
 		"undici": "^5.18.0"
