@@ -1,5 +1,13 @@
 # @ctx-core/fetch-undici
 
+## 2.3.79
+
+### Patch Changes
+
+- @ctx-core/fibonacci: ^8.0.41 -> ^8.1.0
+- Updated dependencies
+  - @ctx-core/fetch@12.3.45
+
 ## 2.3.78
 
 ### Patch Changes
