@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch-undici",
-	"version": "2.3.117",
+	"version": "2.3.118",
 	"description": "ctx-core fetch using undici",
 	"keywords": [
 		"ctx-core",
