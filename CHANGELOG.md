@@ -1,5 +1,13 @@
 # @ctx-core/fetch-undici
 
+## 2.3.117
+
+### Patch Changes
+
+- @ctx-core/error: ^11.6.10 -> ^11.6.11
+- Updated dependencies
+  - @ctx-core/fetch@12.4.1
+
 ## 2.3.116
 
 ### Patch Changes
