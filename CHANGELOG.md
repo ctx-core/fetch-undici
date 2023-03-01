@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 2.3.120
+
+### Patch Changes
+
+- @ctx-core/package: ^9.2.13 -> ^9.2.14
+
 ## 2.3.119
 
 ### Patch Changes
