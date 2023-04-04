@@ -1,5 +1,16 @@
 # @ctx-core/fetch-undici
 
+## 2.6.0
+
+### Minor Changes
+
+- response\__o_=>response*o*
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/fetch@12.8.0
+
 ## 2.5.0
 
 ### Minor Changes

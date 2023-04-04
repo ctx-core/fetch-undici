@@ -7,8 +7,8 @@ export {
 	headers_,
 	Request,
 	Response,
-	response__o_,
-	type response__o_T,
+	response_o_,
+	type response_o_T,
 	response_pair_,
 	fetch_response__throw,
 	waitfor_fibonacci_backoff
