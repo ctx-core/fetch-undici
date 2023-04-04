@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 2.6.6
+
+### Patch Changes
+
+- @ctx-core/queue: ^7.5.0 -> ^7.5.1
+
 ## 2.6.5
 
 ### Patch Changes
