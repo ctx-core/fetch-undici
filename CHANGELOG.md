@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 2.6.1
+
+### Patch Changes
+
+- response*o*: js: fix: return type: response_o_T
+
 ## 2.6.0
 
 ### Minor Changes
