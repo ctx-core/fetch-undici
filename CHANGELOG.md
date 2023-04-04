@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 2.4.0
+
+### Minor Changes
+
+- types: + response\__json_
+
 ## 2.3.179
 
 ### Patch Changes
