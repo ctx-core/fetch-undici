@@ -1,5 +1,34 @@
 # @ctx-core/fetch-undici
 
+## 2.6.30
+
+### Patch Changes
+
+- @ctx-core/dev-tools: 8.1.94 -> 8.1.107
+- @pnpm/list: ^9.0.2 -> ^9.0.3
+- @ctx-core/queue: ^7.5.1 -> ^7.5.13
+- pnpm: 8.2.0 -> 8.3.0
+- @ctx-core/build: 1.0.281 -> 1.0.295
+- @ctx-core/git-tools: ^7.0.45 -> ^7.0.57
+- @ctx-core/monorepo: ^20.1.0 -> ^20.2.1
+- @pnpm/sort-packages: ^5.0.0 -> ^5.0.1
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/dom@14.1.25
+  - @ctx-core/error@12.3.20
+  - @ctx-core/fetch@12.8.20
+  - @ctx-core/fibonacci@8.1.13
+  - @ctx-core/object@27.4.17
+  - @ctx-core/package@9.2.56
+  - @ctx-core/queue@7.5.14
+  - @ctx-core/sleep@8.1.13
+
 ## 2.6.16
 
 ### Patch Changes
