@@ -1,5 +1,20 @@
 # @ctx-core/fetch-undici
 
+## 2.6.36
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/dom@14.1.31
+  - @ctx-core/error@12.3.26
+  - @ctx-core/fetch@12.8.26
+  - @ctx-core/fibonacci@8.1.19
+  - @ctx-core/object@27.4.23
+  - @ctx-core/package@9.2.62
+  - @ctx-core/queue@7.5.21
+  - @ctx-core/sleep@8.1.19
+
 ## 2.6.35
 
 ### Patch Changes
