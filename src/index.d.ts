@@ -1,6 +1,6 @@
 export {
 	fetch,
-	fetch_response_pair_2,
+	fetch_response_pair__,
 	fetch_method_,
 	type fetch_method___params_T,
 	Headers,
