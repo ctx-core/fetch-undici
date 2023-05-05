@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 2.6.51
+
+### Patch Changes
+
+- types: fix: + fetch\__template_pair_,type fetch\_\_template_pair_T
+
 ## 2.6.50
 
 ### Patch Changes

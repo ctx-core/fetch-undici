@@ -1,5 +1,7 @@
 export {
 	fetch,
+	fetch__template_pair_,
+	type fetch__template_pair_T,
 	fetch_response_pair__,
 	fetch_method_,
 	type fetch_method___params_T,
