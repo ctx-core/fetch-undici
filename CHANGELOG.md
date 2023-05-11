@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 2.6.58
+
+### Patch Changes
+
+- undici: ^5.22.0 -> ^5.22.1
+
 ## 2.6.57
 
 ### Patch Changes
