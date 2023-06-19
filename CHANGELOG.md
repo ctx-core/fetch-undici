@@ -1,5 +1,14 @@
 # @ctx-core/fetch-undici
 
+## 2.6.85
+
+### Patch Changes
+
+- @ctx-core/object: ^28.0.1 -> ^28.0.2
+- Updated dependencies
+  - @ctx-core/dom@14.1.53
+  - @ctx-core/error@12.3.37
+
 ## 2.6.84
 
 ### Patch Changes
