@@ -1,5 +1,20 @@
 # @ctx-core/fetch-undici
 
+## 2.6.100
+
+### Patch Changes
+
+- @ctx-core/dom: ^14.1.59 -> ^14.1.60
+- @ctx-core/object: ^28.0.4 -> ^28.0.5
+- @ctx-core/queue: ^7.9.0 -> ^7.9.1
+- @ctx-core/fetch: ^12.11.12 -> ^12.11.15
+- @ctx-core/package: ^9.2.85 -> ^9.2.88
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/fetch@12.11.16
+  - @ctx-core/dom@14.1.61
+  - @ctx-core/error@12.3.40
+
 ## 2.6.99
 
 ### Patch Changes
