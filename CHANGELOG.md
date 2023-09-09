@@ -1,5 +1,28 @@
 # @ctx-core/fetch-undici
 
+## 2.7.0
+
+### Minor Changes
+
+- - response*o\_\_new: aliased by response_o*
+- - fetch_response_pair**new2: aliased by fetch_response_pair**
+- - headers\__new: aliased by headers_
+- - fetch*method\_\_new: aliased by fetch_method*
+- - response*pair\_\_new: aliased by response_pair*
+- - fetch**template_pair**new: aliased by fetch\__template_pair_
+- - fetch*response_pair\_\_new: aliased by fetch_response_pair*
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/fetch@12.12.0
+
 ## 2.6.107
 
 ### Patch Changes
