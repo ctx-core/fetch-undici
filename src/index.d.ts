@@ -21,5 +21,5 @@ export {
 	fetch_response__throw,
 	waitfor_fibonacci_backoff
 } from '@ctx-core/fetch'
-export * from './fetch_response_pair_'
+export * from './fetch_response_pair'
 export * from './RequestInit'

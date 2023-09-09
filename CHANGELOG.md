@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 2.7.1
+
+### Patch Changes
+
+- types: fix: export
+
 ## 2.7.0
 
 ### Minor Changes
