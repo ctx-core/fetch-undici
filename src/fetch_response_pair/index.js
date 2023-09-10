@@ -11,9 +11,6 @@ export async function fetch_response_pair__new(input, init) {
 		return await response_pair__new(response)
 	})
 }
-export {
-	fetch_response_pair__new as fetch_response_pair_,
-}
 export function set_undici_queue_size(queue_size = 128) {
 	queue = queue_(queue_size)
 }

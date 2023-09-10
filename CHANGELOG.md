@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 3.0.1
+
+### Patch Changes
+
+- types: fix: - fetch*respnose_pair*
+
 ## 3.0.0
 
 ### Major Changes
