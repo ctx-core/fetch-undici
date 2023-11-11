@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch-undici",
-	"version": "3.0.52",
+	"version": "3.1.0",
 	"description": "ctx-core fetch using undici",
 	"keywords": [
 		"ctx-core",
@@ -18,13 +18,19 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
-	"svelte": "./src/index.js",
+	"files": [
+		"*.d.ts",
+		"./fetch_response_pair",
+		"./headers",
+		"./RequestInit",
+		"./undici-fetch"
+	],
+	"types": "./index.d.ts",
 	"exports": {
 		".": {
-			"browser": "./src/index.browser.js",
-			"default": "./src/index.js",
-			"node": "./src/index.js"
+			"browser": "./index.browser.js",
+			"default": "./index.js",
+			"node": "./index.js"
 		},
 		"./package.json": "./package.json"
 	},
@@ -38,14 +44,14 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^15.0.7",
-		"@ctx-core/error": "^12.3.49",
-		"@ctx-core/fetch": "^13.0.34",
-		"@ctx-core/fibonacci": "^8.1.21",
-		"@ctx-core/object": "^30.0.0",
-		"@ctx-core/package": "^9.2.117",
-		"@ctx-core/queue": "^7.9.5",
-		"@ctx-core/sleep": "^8.1.21",
+		"@ctx-core/dom": "^15.1.0",
+		"@ctx-core/error": "^12.4.0",
+		"@ctx-core/fetch": "^13.1.0",
+		"@ctx-core/fibonacci": "^8.2.0",
+		"@ctx-core/object": "^30.1.0",
+		"@ctx-core/package": "^9.3.0",
+		"@ctx-core/queue": "^7.10.0",
+		"@ctx-core/sleep": "^8.2.0",
 		"undici": "^5.27.2"
 	},
 	"devDependencies": {
