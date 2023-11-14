@@ -1,5 +1,20 @@
 # @ctx-core/fetch-undici
 
+## 3.1.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/dom@15.1.3
+  - @ctx-core/error@12.4.3
+  - @ctx-core/fetch@13.1.3
+  - @ctx-core/fibonacci@8.2.3
+  - @ctx-core/object@30.1.3
+  - @ctx-core/package@9.3.3
+  - @ctx-core/queue@7.10.3
+  - @ctx-core/sleep@8.2.3
+
 ## 3.1.2
 
 ### Patch Changes
