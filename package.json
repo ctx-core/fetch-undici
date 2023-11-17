@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch-undici",
-	"version": "3.1.20",
+	"version": "3.1.21",
 	"description": "ctx-core fetch using undici",
 	"keywords": [
 		"ctx-core",
@@ -51,7 +51,7 @@
 		"@ctx-core/fetch": "^13.1.12",
 		"@ctx-core/fibonacci": "^8.2.13",
 		"@ctx-core/object": "^30.4.5",
-		"@ctx-core/package": "^9.3.12",
+		"@ctx-core/package": "^9.3.13",
 		"@ctx-core/queue": "^7.10.13",
 		"@ctx-core/sleep": "^8.2.13",
 		"undici": "^5.27.2"
