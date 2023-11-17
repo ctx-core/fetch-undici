@@ -1,5 +1,21 @@
 # @ctx-core/fetch-undici
 
+## 3.1.9
+
+### Patch Changes
+
+- @ctx-core/queue: ^7.10.6 -> ^7.10.7
+- @ctx-core/sleep: ^8.2.6 -> ^8.2.7
+- @ctx-core/error: ^12.4.5 -> ^12.4.6
+- @ctx-core/object: ^30.3.0 -> ^30.3.1
+- @ctx-core/fetch: ^13.1.5 -> ^13.1.6
+- @ctx-core/fibonacci: ^8.2.6 -> ^8.2.7
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/dom@15.1.7
+
 ## 3.1.8
 
 ### Patch Changes
