@@ -1,5 +1,5 @@
 import { response_pair__new } from '@ctx-core/fetch'
-import { queue_ } from '@ctx-core/queue'
+import { queue_ } from 'ctx-core/queue'
 import { fetch } from '../undici-fetch/index.js'
 let queue
 set_undici_queue_size(128)
