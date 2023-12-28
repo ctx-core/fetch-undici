@@ -1,5 +1,11 @@
 # @ctx-core/fetch-undici
 
+## 3.1.119
+
+### Patch Changes
+
+- @ctx-core/dom: ^15.1.69 -> ^15.2.0
+
 ## 3.1.118
 
 ### Patch Changes
