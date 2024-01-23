@@ -1,5 +1,15 @@
 # @ctx-core/fetch-undici
 
+## 3.1.167
+
+### Patch Changes
+
+- ctx-core: ^5.25.5 -> ^5.26.0
+- @ctx-core/dom: ^15.2.39 -> ^15.3.0
+- Updated dependencies
+  - @ctx-core/fetch@13.1.117
+  - @ctx-core/package@9.3.116
+
 ## 3.1.166
 
 ### Patch Changes
