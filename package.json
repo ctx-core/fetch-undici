@@ -50,7 +50,7 @@
 		"@ctx-core/dom": "^15.3.1",
 		"@ctx-core/fetch": "^13.1.118",
 		"@ctx-core/package": "^9.3.117",
-		"ctx-core": "^5.27.0",
+		"ctx-core": "^5.27.1",
 		"undici": "^6.4.0"
 	},
 	"devDependencies": {
