@@ -14,6 +14,6 @@ export {
 	response_pair__new,
 	fetch_response__throw,
 	waitfor_fibonacci_backoff
-} from '@ctx-core/fetch'
+} from 'ctx-core/fetch'
 export * from './fetch_response_pair/index.js'
 export * from './RequestInit/index.js'

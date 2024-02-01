@@ -1,5 +1,12 @@
 # @ctx-core/fetch-undici
 
+## 3.1.193
+
+### Patch Changes
+
+- - ∋ @ctx-core/fetch
+- - ∋ @ctx-core/dom
+
 ## 3.1.192
 
 ### Patch Changes

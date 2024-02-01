@@ -1,1 +1,1 @@
-export * from '@ctx-core/fetch'
+export * from 'ctx-core/fetch'
