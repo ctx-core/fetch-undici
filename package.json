@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch-undici",
-	"version": "3.1.225",
+	"version": "3.1.226",
 	"description": "ctx-core fetch using undici",
 	"keywords": [
 		"ctx-core",
@@ -49,7 +49,7 @@
 	"dependencies": {
 		"@ctx-core/package": "^9.3.168",
 		"ctx-core": "^6.5.6",
-		"undici": "^6.8.0"
+		"undici": "^6.9.0"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
