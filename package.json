@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch-undici",
-	"version": "3.1.231",
+	"version": "3.1.232",
 	"description": "ctx-core fetch using undici",
 	"keywords": [
 		"ctx-core",
@@ -16,7 +16,11 @@
 		"url": "https://github.com/ctx-core/fetch-undici.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-fetch-undici@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
@@ -47,8 +51,8 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"@ctx-core/package": "^9.3.173",
-		"ctx-core": "^6.6.0",
+		"@ctx-core/package": "^9.3.174",
+		"ctx-core": "^6.6.1",
 		"undici": "^6.9.0"
 	},
 	"devDependencies": {

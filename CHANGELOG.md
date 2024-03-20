@@ -1,5 +1,14 @@
 # @ctx-core/fetch-undici
 
+## 3.1.232
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+  - @ctx-core/package@9.3.174
+
 ## 3.1.231
 
 ### Patch Changes
