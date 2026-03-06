@@ -1,5 +1,14 @@
 # @ctx-core/fetch-undici
 
+## 3.1.299
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+  - @ctx-core/package@9.3.228
+
 ## 3.1.298
 
 ### Patch Changes
